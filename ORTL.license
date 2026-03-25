@@ -1,0 +1,149 @@
+Copyright (c) [Year] [Author]
+
+This software is licensed under the Open Runtime License (ORTL).
+
+---
+
+1. Definitions
+
+1.1 "Engine Code"
+Any portion of the software comprising development tools, editors, or any
+code not intended to be included in a Compiled Artifact.
+
+1.2 "Runtime Code"
+Any portion of the software intended to be linked, embedded, or otherwise
+included in a Compiled Artifact and required for its execution.
+
+1.3 "Compiled Artifact"
+Any software, application, or creative work that incorporates or links
+against Runtime Code solely for the purpose of execution or use.
+
+Compiled Artifact does not include tools, engines, or frameworks intended
+to produce further Compiled Artifacts.
+
+1.4 "Derivative Work"
+Any work that:
+(a) incorporates any portion of the Engine Code; or
+(b) incorporates Runtime Code for the purpose of developing, generating,
+    or enabling the creation of Compiled Artifacts.
+
+Derivative Work does not include Compiled Artifacts.
+
+1.5 "Corresponding Source"
+The complete source code required to generate, install, and run the
+Engine Code or Runtime Code, including any modifications, build scripts,
+and interface definition files, as defined by the GNU General Public
+License, version 3.
+
+1.6 "Plugin"
+Any software component designed to extend, modify, or interface with the
+Runtime Code.
+
+The classification of a Plugin as a Derivative Work is determined under
+applicable law and is not altered by this License.
+
+---
+
+2. License Terms
+
+2.1 Engine Code is licensed under the GNU General Public License,
+version 3.
+
+2.2 Runtime Code is licensed under the GNU General Public License,
+version 3, subject to Section 4 of this License.
+
+2.3 All terms, conditions, and rights granted under the GNU General
+Public License, version 3, including patent grants and source
+distribution requirements, apply to Engine Code and Runtime Code except
+as expressly modified by this License.
+
+2.4 A copy of the GNU General Public License, version 3, must be provided
+with any distribution of the Engine Code or Runtime Code.
+
+---
+
+3. Conditions for Derivative Works
+
+3.1 Distribution of any Derivative Work requires that the complete
+Corresponding Source be made available under this License.
+
+3.2 Any modification to Engine Code or Runtime Code, when distributed as
+part of a Derivative Work, must be licensed in its entirety under this
+License.
+
+---
+
+4. Compiled Artifact Exception
+
+4.1 A Compiled Artifact is not a Derivative Work.
+
+4.2 The inclusion, linking, or embedding of Runtime Code within a
+Compiled Artifact does not subject the Compiled Artifact, or any
+non-Runtime portions thereof, to the terms of this License, regardless
+of whether such inclusion is static, dynamic, or by any other means.
+
+4.3 Source code, assets, and other components of a Compiled Artifact
+that do not constitute Runtime Code may be licensed under any terms.
+
+---
+
+5. Distribution Trigger
+
+5.1 Distribution of a Compiled Artifact that incorporates modified
+Runtime Code constitutes distribution of the corresponding Runtime Code.
+
+5.2 In such cases, the distributor must make available the complete
+Corresponding Source of the modified Runtime Code under this License.
+
+---
+
+6. Plugin Treatment
+
+6.1 A Plugin is intended to be usable by third parties without imposing
+additional licensing obligations beyond those applicable to Compiled
+Artifacts.
+
+6.2 If a Plugin constitutes a Derivative Work under applicable law, the
+requirements of Section 3 shall not apply to the Plugin itself.
+
+6.3 Plugins remain subject to Section 4 (Compiled Artifact Exception).
+
+---
+
+7. Preservation of Notices
+
+All copies of the Engine Code and Runtime Code must retain all applicable
+copyright notices and license text.
+
+---
+
+8. No Additional Restrictions
+
+No additional restrictions may be imposed on the Engine Code or Runtime
+Code beyond those specified in this License and the GNU General Public
+License, version 3.
+
+---
+
+9. Additional Licensing
+
+The copyright holder may grant additional rights or separate licensing
+terms for the Engine Code or Runtime Code, including proprietary
+licenses, at their discretion.
+
+---
+
+10. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+---
+
+11. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
